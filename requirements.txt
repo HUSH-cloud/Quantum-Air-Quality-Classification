@@ -1,0 +1,6 @@
+# Python 3.10–3.12 (pyvqnet ships wheels for cp310/311/312)
+pyvqnet
+pandas
+numpy
+scikit-learn
+matplotlib
