@@ -73,4 +73,4 @@ This repository (code, data, and paper) is published for portfolio and reference
 If you would like to use this work for such purposes, please contact the author by email first to obtain permission.
 如需上述用途，请先邮件联系作者获得许可：
 
-📧 **gezongyuan876@gmail.com**
+📧 **gezongyuan@u.nus.edu**
